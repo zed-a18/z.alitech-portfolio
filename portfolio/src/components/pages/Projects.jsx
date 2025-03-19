@@ -25,7 +25,7 @@ export const Projects = () => {
                     </div>
 
                     <div className="flex justify-between items-center">
-                        <a href="#" className="text-red-500 hover:text-red-400 transition-colors my-4">View Project ➡</a>
+                        <a href="https://github.com/zed-a18/restaurant-app" target="_blank" className="text-red-500 hover:text-red-400 transition-colors my-4">View Project ➡</a>
 
                     </div>
                 </div>
@@ -47,7 +47,7 @@ export const Projects = () => {
                     </div>
 
                     <div className="flex justify-between items-center">
-                        <a href="#" className="text-red-500 hover:text-red-400 transition-colors my-4">View Project ➡</a>
+                        <a href="https://github.com/zed-a18/PROJECT_TBAG" target="_blank" className="text-red-500 hover:text-red-400 transition-colors my-4">View Project ➡</a>
 
                     </div>
                 </div>
