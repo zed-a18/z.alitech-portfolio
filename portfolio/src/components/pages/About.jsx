@@ -52,6 +52,8 @@ export const About = () => {
                     <ul className="list-disc list-inside text-gray-300 space-y-2">
                         <li>
                             <strong> Software Engineering & AI Bootcamp </strong> <br></br>IN4 Group <br></br>(Dec 2024 - March 2025)
+                            </li>
+                            <li>
                             <strong> Network Professional Programme </strong> <br></br>Just IT Training Ltd <br></br>(March 2022 - July 2022)
                         </li>
                   
