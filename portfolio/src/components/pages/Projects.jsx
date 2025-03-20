@@ -14,7 +14,7 @@ export const Projects = () => {
                         Group project to build restaurant website using React. 
                     </p>
                     <div className="flex flex-wrap gap-2 mb-4">
-                        {["React", "Node.js", "Tailwindcss", "HTML, CSS, JavaScript", "AI"].map((tech, key) => (
+                        {["React", "Node.js", "Tailwindcss", "HTML, CSS", "JavaScript", "AI"].map((tech, key) => (
                             <span
                             key={key}
                             className="bg-red-600/10 text-red-600 py-1 px-3 rounded-full text-sm hover:bg-red-600/20
