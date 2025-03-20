@@ -19,6 +19,12 @@ export const Home = () => {
 
                 <a href="#contact" className="border border-red-600/50 text-red-600 py-3 px-6 rounded font-medium transition-all duration-200
                 hover:translate-y-0.5 hover:shadow-[0_0_15px_rgba(59, 130, 246, 0.2)] hover:bg-blue-500/10">Contact Me</a>
+                    
+                <a href="https://github.com/zed-a18" target="_blank" className="border border-red-600/50 text-red-600 py-3 px-6 rounded font-medium transition-all duration-200
+                hover:translate-y-0.5 hover:shadow-[0_0_15px_rgba(59, 130, 246, 0.2)] hover:bg-blue-500/10">Github</a>
+                    
+                <a href="https://www.linkedin.com/in/zakaria-ali-265340101/" target="_blank" className="border border-red-600/50 text-red-600 py-3 px-6 rounded font-medium transition-all duration-200
+                hover:translate-y-0.5 hover:shadow-[0_0_15px_rgba(59, 130, 246, 0.2)] hover:bg-blue-500/10">LinkedIn</a>
 
             </div>
         </div>
