@@ -17,7 +17,7 @@ export const Projects = () => {
                         {["React", "Node.js", "Tailwindcss", "HTML, CSS", "JavaScript"].map((tech, key) => (
                             <span
                             key={key}
-                            className="bg-red-600/10 text-red-600 py-1 px-3 rounded-full text-sm hover:bg-red-600/20
+                            className="bg-red-800 text-gray-200 py-1 px-3 rounded-full text-sm hover:bg-red-600/20
                                         hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition-all">{tech}
 
                             </span>
@@ -25,7 +25,7 @@ export const Projects = () => {
                     </div>
 
                     <div className="flex justify-between items-center">
-                        <a href="https://github.com/zed-a18/restaurant-app" target="_blank" className="text-red-500 hover:text-red-400 transition-colors my-4">View Project ➡</a>
+                        <a href="https://github.com/zed-a18/restaurant-app" target="_blank" className="text-red-600 hover:text-red-400 transition-colors my-4">View Project ➡</a>
 
                     </div>
                 </div>
@@ -39,7 +39,7 @@ export const Projects = () => {
                         {["Python"].map((tech, key) => (
                             <span
                             key={key}
-                            className="bg-red-600/10 text-red-600 py-1 px-3 rounded-full text-sm hover:bg-red-600/20
+                            className="bg-red-800 text-gray-200 py-1 px-3 rounded-full text-sm hover:bg-red-600/20
                                         hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)] transition-all">{tech}
 
                             </span>
@@ -47,7 +47,7 @@ export const Projects = () => {
                     </div>
 
                     <div className="flex justify-between items-center">
-                        <a href="https://github.com/zed-a18/PROJECT_TBAG" target="_blank" className="text-red-500 hover:text-red-400 transition-colors my-4">View Project ➡</a>
+                        <a href="https://github.com/zed-a18/PROJECT_TBAG" target="_blank" className="text-red-600 hover:text-red-400 transition-colors my-4">View Project ➡</a>
 
                     </div>
                 </div>
